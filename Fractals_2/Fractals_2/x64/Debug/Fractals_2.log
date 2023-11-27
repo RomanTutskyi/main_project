@@ -1,0 +1,11 @@
+﻿  Cell.cpp
+  Field.cpp
+  GetCell.cpp
+  Main.cpp
+D:\Fractals_2\Fractals_2\Main.cpp(64,23): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Generating Code...
+  Fractals_2.vcxproj -> D:\Fractals_2\x64\Debug\Fractals_2.exe
